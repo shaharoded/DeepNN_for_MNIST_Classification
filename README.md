@@ -6,7 +6,7 @@ The module is used in the `main.ipynb` to run several experiments on the MNIST d
 
 ![Alt Text](Images/image1.png)
 
-The architecture described in `main.ipynb` yielded pretty good results, and I'm sure further experiment will yield even better results
+The architecture outlined in `main.ipynb` achieved promising results, and further experimentation is likely to improve them even more.
 
 ![Alt Text](Images/image2.png)
 
