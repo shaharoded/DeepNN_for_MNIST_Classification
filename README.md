@@ -1,10 +1,14 @@
 # Deep Neural Network for MNIST Classification
 
-This repository implements a fully functional Deep Neural Network (DNN) built from scratch using PyTorch. The module supports advanced training features like **batch normalization**, **early stopping**, and **L2 regularization**. It is designed for experimentation and provides an easy-to-use interface for defining, training, and evaluating deep learning models.
+This repository implements a fully functional Deep Neural Network (DNN) built from scratch using PyTorch. The module supports advanced training features like **batch normalization**, **early stopping**, and **L2 regularization**. It is designed for experimentation and provides an easy-to-use interface for defining, training, and evaluating deep learning models, while preventing overfitting.
 
 The module is used in the `main.ipynb` to run several experiments on the MNIST dataset.
 
 ![Alt Text](Images/image1.png)
+
+The architecture described in `main.ipynb` yielded pretty good results, and I'm sure further experiment will yield even better results
+
+![Alt Text](Images/image2.png)
 
 ---
 
